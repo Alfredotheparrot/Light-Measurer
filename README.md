@@ -23,4 +23,4 @@
 
 # Please enjoy this project, have fun, and explore!
 
-Also, it measures in lumens.
+Also, the photoresistor measures in lumens and you have to open the serial port to get the current status in lumens.
